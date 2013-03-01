@@ -1,3 +1,12 @@
-My user preferences files for Sublime text 2 when working with Drupal.
+*User preferences*
+--------------------------------------------------------------------------
+-Trim trailling white space on save
+-Add a unix end of line character on save
+-Add a vertical margin at 80 characters
+-Tabs are spaces not tab characters
+-Standard Drupal 2 spaces as tab
+-Detect slow plugins is off
 
-Covers having tabs as 2 spaces, adds a vertical guide at 80 characters, adds a unix newline at the end of files, trims trailing whitespace on save etc.
+*Key bindings*
+--------------------------------------------------------------------------
+Maps control+tab and control+shift+tab to work as they should do. This is the behaviour of switching tabs in many other applications including Google Chrome rather than the unpredictable nature of the default actions.
